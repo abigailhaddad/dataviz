@@ -1,7 +1,52 @@
-.DS_Store
-node_modules
+# Dependencies
+node_modules/
+.npm
+
+# Build outputs
+build/
+.svelte-kit/
 .svelte
-.svelte-kit
-build
-functions
+dist/
+functions/
+
+# Environment files
 .env
+.env.*
+!.env.example
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+ENV/
+
+# Data files (keep only the processed JSON we need)
+data/raw/
+data/processed/*.parquet
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.cache/
+.temp/
+*.bak
+*.tmp
