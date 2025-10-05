@@ -355,6 +355,7 @@
         position: relative;
         z-index: 2;
         padding: 100vh 0;
+        pointer-events: none;
     }
     
     .step {
@@ -378,6 +379,7 @@
         padding: 20px 25px;
         max-width: 400px;
         margin-left: 20px;
+        pointer-events: auto;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
         backdrop-filter: blur(10px);
     }
