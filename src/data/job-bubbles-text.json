@@ -1,0 +1,49 @@
+{
+  "page": {
+    "title": "Plain Language Job Titles in Federal Government",
+    "metaTitle": "Plain Language Job Titles in Federal Government",
+    "subtitle": "The 2210 series, or the Information Technology Management Series, is the largest tech-related occupational series in the federal government. While it sounds like tech support, people in this job series also include engineers, product managers, and even Chief Information Officers.<br><br>However, overwhelmingly, the job titles used to advertise for this role on USAJobs are some variation of 'IT Specialist', which makes it difficult for candidates to search for the jobs they're looking for."
+  },
+  "legend": {
+    "title": "Size = Number of Job Announcements in 2024",
+    "sizeSmall": "Fewer postings",
+    "sizeLarge": "More postings"
+  },
+  "scrollText": {
+    "mainText": "Each bubble represents a job title in the 2210 series:",
+    "redText": "IT Specialist/Manager variations",
+    "greenText": "other job titles",
+    "infoText": "These are the top 200 job titles used to advertise for the 2210 series."
+  },
+  "scrollSteps": [
+    {
+      "text": "Each bubble represents a job title in the 2210 series: <span style='color: #A34131;'>IT Specialist/Manager variations</span> or <span style='color: #4FB477;'>other job titles</span>.",
+      "highlight": "none"
+    },
+    {
+      "text": "The most popular job title was <strong>{mostPopularTitle}</strong>",
+      "highlight": "mostPopular"
+    },
+    {
+      "text": "But there were also many variations on IT Specialist...",
+      "highlight": "randomRed"
+    },
+    {
+      "text": "There were very few titles that weren't some form of 'IT Specialist'",
+      "highlight": "randomGreen"
+    }
+  ],
+  "colors": {
+    "red": "#A34131",
+    "green": "#4FB477"
+  },
+  "bubbleGroups": {
+    "generic": "IT Specialist",
+    "descriptive": "Other Titles"
+  },
+  "loading": {
+    "loadingData": "Loading job data...",
+    "noData": "No data found",
+    "error": "Error loading data:"
+  }
+}

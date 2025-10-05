@@ -1,0 +1,3290 @@
+[
+  {
+    "code": "0001",
+    "title": "Special-10 Point Veteran"
+  },
+  {
+    "code": "0002",
+    "title": "Special Master"
+  },
+  {
+    "code": "0006",
+    "title": "Correctional Institution Administration"
+  },
+  {
+    "code": "0007",
+    "title": "Correctional Officer"
+  },
+  {
+    "code": "0011",
+    "title": "Bond Sales Promotion"
+  },
+  {
+    "code": "0017",
+    "title": "Explosives Safety Series"
+  },
+  {
+    "code": "0018",
+    "title": "Safety and Occupational Health Management"
+  },
+  {
+    "code": "0019",
+    "title": "Safety Technician"
+  },
+  {
+    "code": "0020",
+    "title": "Community Planning "
+  },
+  {
+    "code": "0021",
+    "title": "Community Planning Technician"
+  },
+  {
+    "code": "0023",
+    "title": "Outdoor Recreation Planning"
+  },
+  {
+    "code": "0025",
+    "title": "Park Ranger"
+  },
+  {
+    "code": "0028",
+    "title": "Environmental Protection Specialist"
+  },
+  {
+    "code": "0029",
+    "title": "Environmental Protection Assistant"
+  },
+  {
+    "code": "0030",
+    "title": "Sports Specialist"
+  },
+  {
+    "code": "0050",
+    "title": "Funeral Directing"
+  },
+  {
+    "code": "0060",
+    "title": "Chaplain"
+  },
+  {
+    "code": "0062",
+    "title": "Clothing Design"
+  },
+  {
+    "code": "0072",
+    "title": "Fingerprint Identification"
+  },
+  {
+    "code": "0080",
+    "title": "Security Administration"
+  },
+  {
+    "code": "0081",
+    "title": "Fire Protection and Prevention"
+  },
+  {
+    "code": "0082",
+    "title": "United States Marshal"
+  },
+  {
+    "code": "0083",
+    "title": "Police"
+  },
+  {
+    "code": "0084",
+    "title": "Nuclear Materials Courier"
+  },
+  {
+    "code": "0085",
+    "title": "Security Guard"
+  },
+  {
+    "code": "0086",
+    "title": "Security Clerical and Assistance"
+  },
+  {
+    "code": "0089",
+    "title": "Emergency Management Specialist"
+  },
+  {
+    "code": "0090",
+    "title": "Guide"
+  },
+  {
+    "code": "0095",
+    "title": "Foreign Law Specialist"
+  },
+  {
+    "code": "0099",
+    "title": "General Student Trainee"
+  },
+  {
+    "code": "0101",
+    "title": "Social Science"
+  },
+  {
+    "code": "0102",
+    "title": "Social Science Aid and Technician"
+  },
+  {
+    "code": "0105",
+    "title": "Social Insurance Administration"
+  },
+  {
+    "code": "0106",
+    "title": "Unemployment Insurance"
+  },
+  {
+    "code": "0107",
+    "title": "Health Insurance Administration"
+  },
+  {
+    "code": "0110",
+    "title": "Economist"
+  },
+  {
+    "code": "0119",
+    "title": "Economics Assistant"
+  },
+  {
+    "code": "0130",
+    "title": "Foreign Affairs"
+  },
+  {
+    "code": "0131",
+    "title": "International Relations"
+  },
+  {
+    "code": "0132",
+    "title": "Intelligence"
+  },
+  {
+    "code": "0134",
+    "title": "Intelligence Aid And Clerk"
+  },
+  {
+    "code": "0135",
+    "title": "Foreign Agricultural Affairs"
+  },
+  {
+    "code": "0136",
+    "title": "International Cooperation"
+  },
+  {
+    "code": "0140",
+    "title": "Workforce Research And Analysis"
+  },
+  {
+    "code": "0142",
+    "title": "Workforce Development"
+  },
+  {
+    "code": "0150",
+    "title": "Geography"
+  },
+  {
+    "code": "0160",
+    "title": "Civil Rights Analysis"
+  },
+  {
+    "code": "0170",
+    "title": "History"
+  },
+  {
+    "code": "0180",
+    "title": "Psychology"
+  },
+  {
+    "code": "0181",
+    "title": "Psychology Aid And Technician"
+  },
+  {
+    "code": "0182",
+    "title": "Marriage and Family Therapist"
+  },
+  {
+    "code": "0183",
+    "title": "Licensed Professional Mental Health Counselor"
+  },
+  {
+    "code": "0184",
+    "title": "Sociology"
+  },
+  {
+    "code": "0185",
+    "title": "Social Work"
+  },
+  {
+    "code": "0186",
+    "title": "Social Services Aid And Assistant"
+  },
+  {
+    "code": "0187",
+    "title": "Social Services"
+  },
+  {
+    "code": "0188",
+    "title": "Recreation Specialist"
+  },
+  {
+    "code": "0189",
+    "title": "Recreation Aid And Assistant"
+  },
+  {
+    "code": "0190",
+    "title": "General Anthropology"
+  },
+  {
+    "code": "0193",
+    "title": "Archeology"
+  },
+  {
+    "code": "0199",
+    "title": "Social Science Student Trainee"
+  },
+  {
+    "code": "0201",
+    "title": "Human Resources Management"
+  },
+  {
+    "code": "0203",
+    "title": "Human Resources Assistance"
+  },
+  {
+    "code": "0241",
+    "title": "Mediation"
+  },
+  {
+    "code": "0243",
+    "title": "Apprenticeship And Training"
+  },
+  {
+    "code": "0244",
+    "title": "Labor-Management Relations Examining"
+  },
+  {
+    "code": "0249",
+    "title": "Wage And Hour Compliance"
+  },
+  {
+    "code": "0260",
+    "title": "Equal Employment Opportunity"
+  },
+  {
+    "code": "0299",
+    "title": "Human Resources Management Student Trainee"
+  },
+  {
+    "code": "0301",
+    "title": "Miscellaneous Administration And Program"
+  },
+  {
+    "code": "0302",
+    "title": "Messenger"
+  },
+  {
+    "code": "0303",
+    "title": "Miscellaneous Clerk And Assistant"
+  },
+  {
+    "code": "0304",
+    "title": "Information Receptionist"
+  },
+  {
+    "code": "0305",
+    "title": "Mail And File"
+  },
+  {
+    "code": "0306",
+    "title": "Government Information Specialist"
+  },
+  {
+    "code": "0308",
+    "title": "Records & Information Management"
+  },
+  {
+    "code": "0309",
+    "title": "Correspondence Clerk"
+  },
+  {
+    "code": "0313",
+    "title": "Work Unit Supervising"
+  },
+  {
+    "code": "0318",
+    "title": "Secretary"
+  },
+  {
+    "code": "0319",
+    "title": "Closed Microphone Reporter"
+  },
+  {
+    "code": "0322",
+    "title": "Clerk-Typist"
+  },
+  {
+    "code": "0326",
+    "title": "Office Automation Clerical And Assistance"
+  },
+  {
+    "code": "0332",
+    "title": "Computer Operation"
+  },
+  {
+    "code": "0334",
+    "title": "Computer Specialist (FAA Only)"
+  },
+  {
+    "code": "0335",
+    "title": "Computer Clerk And Assistant"
+  },
+  {
+    "code": "0340",
+    "title": "Program Management"
+  },
+  {
+    "code": "0341",
+    "title": "Administrative Officer"
+  },
+  {
+    "code": "0342",
+    "title": "Support Services Administration"
+  },
+  {
+    "code": "0343",
+    "title": "Management And Program Analysis"
+  },
+  {
+    "code": "0344",
+    "title": "Management And Program Clerical And Assistance"
+  },
+  {
+    "code": "0346",
+    "title": "Logistics Management"
+  },
+  {
+    "code": "0347",
+    "title": "GAO Evaluator"
+  },
+  {
+    "code": "0350",
+    "title": "Equipment Operator"
+  },
+  {
+    "code": "0351",
+    "title": "Printing Clerk"
+  },
+  {
+    "code": "0352",
+    "title": "Presidential Management Fellow"
+  },
+  {
+    "code": "0356",
+    "title": "Data Transcriber"
+  },
+  {
+    "code": "0357",
+    "title": "Coding"
+  },
+  {
+    "code": "0360",
+    "title": "Equal Opportunity Compliance"
+  },
+  {
+    "code": "0361",
+    "title": "Equal Opportunity Assistance"
+  },
+  {
+    "code": "0382",
+    "title": "Telephone Operating"
+  },
+  {
+    "code": "0390",
+    "title": "Telecommunications Processing"
+  },
+  {
+    "code": "0391",
+    "title": "Telecommunications"
+  },
+  {
+    "code": "0392",
+    "title": "General Telecommunications"
+  },
+  {
+    "code": "0394",
+    "title": "Communications Clerical"
+  },
+  {
+    "code": "0399",
+    "title": "Administration And Office Support Student Trainee"
+  },
+  {
+    "code": "0401",
+    "title": "General Natural Resources Management And Biological Sciences"
+  },
+  {
+    "code": "0403",
+    "title": "Microbiology"
+  },
+  {
+    "code": "0404",
+    "title": "Biological Science Technician"
+  },
+  {
+    "code": "0405",
+    "title": "Pharmacology"
+  },
+  {
+    "code": "0406",
+    "title": "Agricultural Extension Specialist"
+  },
+  {
+    "code": "0408",
+    "title": "Ecology"
+  },
+  {
+    "code": "0410",
+    "title": "Zoology"
+  },
+  {
+    "code": "0413",
+    "title": "Physiology"
+  },
+  {
+    "code": "0414",
+    "title": "Entomology"
+  },
+  {
+    "code": "0415",
+    "title": "Toxicology"
+  },
+  {
+    "code": "0421",
+    "title": "Plant Protection Technician"
+  },
+  {
+    "code": "0430",
+    "title": "Botany"
+  },
+  {
+    "code": "0434",
+    "title": "Plant Pathology"
+  },
+  {
+    "code": "0435",
+    "title": "Plant Physiology"
+  },
+  {
+    "code": "0436",
+    "title": "Plant Protection And Quar"
+  },
+  {
+    "code": "0437",
+    "title": "Horticulture"
+  },
+  {
+    "code": "0440",
+    "title": "Genetics"
+  },
+  {
+    "code": "0454",
+    "title": "Rangeland Management"
+  },
+  {
+    "code": "0455",
+    "title": "Range Technician"
+  },
+  {
+    "code": "0456",
+    "title": "Wildland Fire Management"
+  },
+  {
+    "code": "0457",
+    "title": "Soil Conservation"
+  },
+  {
+    "code": "0458",
+    "title": "Soil Conservation Technician"
+  },
+  {
+    "code": "0459",
+    "title": "Irrigation System Operation"
+  },
+  {
+    "code": "0460",
+    "title": "Forestry"
+  },
+  {
+    "code": "0462",
+    "title": "Forestry Technician"
+  },
+  {
+    "code": "0470",
+    "title": "Soil Science"
+  },
+  {
+    "code": "0471",
+    "title": "Agronomy"
+  },
+  {
+    "code": "0480",
+    "title": "Fish And Wildlife Administration"
+  },
+  {
+    "code": "0482",
+    "title": "Fish Biology"
+  },
+  {
+    "code": "0485",
+    "title": "Wildlife Refuge Management"
+  },
+  {
+    "code": "0486",
+    "title": "Wildlife Biology"
+  },
+  {
+    "code": "0487",
+    "title": "Animal Science"
+  },
+  {
+    "code": "0493",
+    "title": "Home Economist"
+  },
+  {
+    "code": "0499",
+    "title": "Biological Science Student Trainee"
+  },
+  {
+    "code": "0501",
+    "title": "Financial Administration And Program"
+  },
+  {
+    "code": "0503",
+    "title": "Financial Clerical And Assistance"
+  },
+  {
+    "code": "0505",
+    "title": "Financial Management"
+  },
+  {
+    "code": "0510",
+    "title": "Accounting"
+  },
+  {
+    "code": "0511",
+    "title": "Auditing"
+  },
+  {
+    "code": "0512",
+    "title": "Internal Revenue Agent"
+  },
+  {
+    "code": "0525",
+    "title": "Accounting Technician"
+  },
+  {
+    "code": "0526",
+    "title": "Tax Specialist"
+  },
+  {
+    "code": "0530",
+    "title": "Cash Processing"
+  },
+  {
+    "code": "0540",
+    "title": "Voucher Examining"
+  },
+  {
+    "code": "0544",
+    "title": "Civilian Pay"
+  },
+  {
+    "code": "0545",
+    "title": "Military Pay"
+  },
+  {
+    "code": "0560",
+    "title": "Budget Analysis"
+  },
+  {
+    "code": "0561",
+    "title": "Budget Clerical And Assistance"
+  },
+  {
+    "code": "0570",
+    "title": "Financial Institution Examining"
+  },
+  {
+    "code": "0580",
+    "title": "Credit Union Examiner"
+  },
+  {
+    "code": "0592",
+    "title": "Tax Examining"
+  },
+  {
+    "code": "0593",
+    "title": "Insurance Accounts"
+  },
+  {
+    "code": "0599",
+    "title": "Financial Management Student Trainee"
+  },
+  {
+    "code": "0601",
+    "title": "General Health Science"
+  },
+  {
+    "code": "0602",
+    "title": "Medical Officer"
+  },
+  {
+    "code": "0603",
+    "title": "Physician Assistant"
+  },
+  {
+    "code": "0605",
+    "title": "Nurse Anesthetist (Title 38)"
+  },
+  {
+    "code": "0610",
+    "title": "Nurse"
+  },
+  {
+    "code": "0620",
+    "title": "Practical Nurse"
+  },
+  {
+    "code": "0621",
+    "title": "Nursing Assistant"
+  },
+  {
+    "code": "0622",
+    "title": "Medical Supply Aide And Technician"
+  },
+  {
+    "code": "0625",
+    "title": "Autopsy Assistant"
+  },
+  {
+    "code": "0630",
+    "title": "Dietitian And Nutritionist"
+  },
+  {
+    "code": "0631",
+    "title": "Occupational Therapist"
+  },
+  {
+    "code": "0633",
+    "title": "Physical Therapist"
+  },
+  {
+    "code": "0635",
+    "title": "Kinesiotherapy"
+  },
+  {
+    "code": "0636",
+    "title": "Rehabilitation Therapy Assistant"
+  },
+  {
+    "code": "0637",
+    "title": "Manual Arts Therapist"
+  },
+  {
+    "code": "0638",
+    "title": "Recreation/Creative Arts Therapist"
+  },
+  {
+    "code": "0639",
+    "title": "Educational Therapist"
+  },
+  {
+    "code": "0640",
+    "title": "Health Aid And Technician"
+  },
+  {
+    "code": "0642",
+    "title": "Nuclear Medicine Technician"
+  },
+  {
+    "code": "0644",
+    "title": "Clinical Laboratory Science"
+  },
+  {
+    "code": "0645",
+    "title": "Medical Technician"
+  },
+  {
+    "code": "0646",
+    "title": "Pathology Technician"
+  },
+  {
+    "code": "0647",
+    "title": "Diagnostic Radiologic Technologist"
+  },
+  {
+    "code": "0648",
+    "title": "Therapeutic Radiologic Technologist"
+  },
+  {
+    "code": "0649",
+    "title": "Medical Instrument Technician"
+  },
+  {
+    "code": "0650",
+    "title": "Medical Technical Assistant"
+  },
+  {
+    "code": "0651",
+    "title": "Respiratory Therapist"
+  },
+  {
+    "code": "0660",
+    "title": "Pharmacist"
+  },
+  {
+    "code": "0661",
+    "title": "Pharmacy Technician"
+  },
+  {
+    "code": "0662",
+    "title": "Optometrist"
+  },
+  {
+    "code": "0665",
+    "title": "Speech Pathology And Audiology"
+  },
+  {
+    "code": "0667",
+    "title": "Orthotist And Prosthetist"
+  },
+  {
+    "code": "0668",
+    "title": "Podiatrist"
+  },
+  {
+    "code": "0669",
+    "title": "Medical Records Administration"
+  },
+  {
+    "code": "0670",
+    "title": "Health System Administration"
+  },
+  {
+    "code": "0671",
+    "title": "Health System Specialist"
+  },
+  {
+    "code": "0672",
+    "title": "Prosthetic Representative"
+  },
+  {
+    "code": "0673",
+    "title": "Hospital Housekeeping Management"
+  },
+  {
+    "code": "0675",
+    "title": "Medical Records Technician"
+  },
+  {
+    "code": "0679",
+    "title": "Medical Support Assistance"
+  },
+  {
+    "code": "0680",
+    "title": "Dental Officer"
+  },
+  {
+    "code": "0681",
+    "title": "Dental Assistant"
+  },
+  {
+    "code": "0682",
+    "title": "Dental Hygiene"
+  },
+  {
+    "code": "0683",
+    "title": "Dental Laboratory Aid And Technician"
+  },
+  {
+    "code": "0685",
+    "title": "Public Health Program Specialist"
+  },
+  {
+    "code": "0688",
+    "title": "Sanitarian"
+  },
+  {
+    "code": "0690",
+    "title": "Industrial Hygiene"
+  },
+  {
+    "code": "0696",
+    "title": "Consumer Safety"
+  },
+  {
+    "code": "0698",
+    "title": "Environmental Health Technician"
+  },
+  {
+    "code": "0699",
+    "title": "Medical And Health Student Trainee"
+  },
+  {
+    "code": "0701",
+    "title": "Veterinary Medical Science"
+  },
+  {
+    "code": "0704",
+    "title": "Animal Health Technician"
+  },
+  {
+    "code": "0799",
+    "title": "Veterinary Student Trainee"
+  },
+  {
+    "code": "0801",
+    "title": "General Engineering"
+  },
+  {
+    "code": "0802",
+    "title": "Engineering Technical"
+  },
+  {
+    "code": "0803",
+    "title": "Safety Engineering"
+  },
+  {
+    "code": "0804",
+    "title": "Fire Protection Engineering"
+  },
+  {
+    "code": "0806",
+    "title": "Materials Engineering"
+  },
+  {
+    "code": "0807",
+    "title": "Landscape Architecture"
+  },
+  {
+    "code": "0808",
+    "title": "Architecture"
+  },
+  {
+    "code": "0809",
+    "title": "Construction Control Technical"
+  },
+  {
+    "code": "0810",
+    "title": "Civil Engineering"
+  },
+  {
+    "code": "0817",
+    "title": "Survey Technical"
+  },
+  {
+    "code": "0818",
+    "title": "Engineering Draftsman"
+  },
+  {
+    "code": "0819",
+    "title": "Environmental Engineering"
+  },
+  {
+    "code": "0828",
+    "title": "Construction Analyst"
+  },
+  {
+    "code": "0830",
+    "title": "Mechanical Engineering"
+  },
+  {
+    "code": "0840",
+    "title": "Nuclear Engineering"
+  },
+  {
+    "code": "0850",
+    "title": "Electrical Engineering"
+  },
+  {
+    "code": "0854",
+    "title": "Computer Engineering"
+  },
+  {
+    "code": "0855",
+    "title": "Electronics Engineering"
+  },
+  {
+    "code": "0856",
+    "title": "Electronics Technical"
+  },
+  {
+    "code": "0858",
+    "title": "Bioengineering and Biomedical Engineering"
+  },
+  {
+    "code": "0861",
+    "title": "Aerospace Engineering"
+  },
+  {
+    "code": "0871",
+    "title": "Naval Architecture"
+  },
+  {
+    "code": "0873",
+    "title": "Marine Survey Technical"
+  },
+  {
+    "code": "0880",
+    "title": "Mining Engineering"
+  },
+  {
+    "code": "0881",
+    "title": "Petroleum Engineering"
+  },
+  {
+    "code": "0890",
+    "title": "Agricultural Engineering"
+  },
+  {
+    "code": "0892",
+    "title": "Engineer, Ceramics"
+  },
+  {
+    "code": "0893",
+    "title": "Chemical Engineering"
+  },
+  {
+    "code": "0894",
+    "title": "Engineer, Welding"
+  },
+  {
+    "code": "0895",
+    "title": "Industrial Engineering Technical"
+  },
+  {
+    "code": "0896",
+    "title": "Industrial Engineering"
+  },
+  {
+    "code": "0898",
+    "title": "Engineering Trainee"
+  },
+  {
+    "code": "0899",
+    "title": "Engineering And Architecture Student Trainee"
+  },
+  {
+    "code": "0901",
+    "title": "General Legal And Kindred Administration"
+  },
+  {
+    "code": "0904",
+    "title": "Law Clerk"
+  },
+  {
+    "code": "0905",
+    "title": "Attorney"
+  },
+  {
+    "code": "0930",
+    "title": "Hearings And Appeals"
+  },
+  {
+    "code": "0935",
+    "title": "Administrative Law Judge"
+  },
+  {
+    "code": "0950",
+    "title": "Paralegal Specialist"
+  },
+  {
+    "code": "0958",
+    "title": "Employee Benefits Law"
+  },
+  {
+    "code": "0962",
+    "title": "Contact Representative"
+  },
+  {
+    "code": "0963",
+    "title": "Legal Instruments Examining"
+  },
+  {
+    "code": "0965",
+    "title": "Land Law Examining"
+  },
+  {
+    "code": "0967",
+    "title": "Passport And Visa Examining"
+  },
+  {
+    "code": "0986",
+    "title": "Legal Assistance"
+  },
+  {
+    "code": "0987",
+    "title": "Tax Law Specialist"
+  },
+  {
+    "code": "0991",
+    "title": "Worker's Compensation Claims Examining"
+  },
+  {
+    "code": "0993",
+    "title": "Railroad Retirement Claims Examining"
+  },
+  {
+    "code": "0996",
+    "title": "Veterans Claims Examining"
+  },
+  {
+    "code": "0998",
+    "title": "Claims Assistance And Examining"
+  },
+  {
+    "code": "0999",
+    "title": "Legal Occupations Student Trainee"
+  },
+  {
+    "code": "1001",
+    "title": "General Arts And Information"
+  },
+  {
+    "code": "1002",
+    "title": "Arts and Information Support"
+  },
+  {
+    "code": "1008",
+    "title": "Interior Design"
+  },
+  {
+    "code": "1010",
+    "title": "Exhibits Specialist"
+  },
+  {
+    "code": "1015",
+    "title": "Museum Curator"
+  },
+  {
+    "code": "1016",
+    "title": "Museum Specialist And Technician"
+  },
+  {
+    "code": "1020",
+    "title": "Illustrating"
+  },
+  {
+    "code": "1021",
+    "title": "Office Drafting"
+  },
+  {
+    "code": "1035",
+    "title": "Public Affairs"
+  },
+  {
+    "code": "1040",
+    "title": "Language Specialist"
+  },
+  {
+    "code": "1046",
+    "title": "Language Clerical"
+  },
+  {
+    "code": "1051",
+    "title": "Music Specialist"
+  },
+  {
+    "code": "1054",
+    "title": "Theater Specialist"
+  },
+  {
+    "code": "1056",
+    "title": "Art Specialist"
+  },
+  {
+    "code": "1060",
+    "title": "Photography"
+  },
+  {
+    "code": "1071",
+    "title": "Audiovisual Production"
+  },
+  {
+    "code": "1082",
+    "title": "Writing And Editing"
+  },
+  {
+    "code": "1083",
+    "title": "Technical Writing And Editing"
+  },
+  {
+    "code": "1084",
+    "title": "Visual Information"
+  },
+  {
+    "code": "1087",
+    "title": "Editorial Assistance"
+  },
+  {
+    "code": "1099",
+    "title": "Information And Arts Student Trainee"
+  },
+  {
+    "code": "1101",
+    "title": "General Business And Industry"
+  },
+  {
+    "code": "1102",
+    "title": "Contracting"
+  },
+  {
+    "code": "1103",
+    "title": "Industrial Property Management"
+  },
+  {
+    "code": "1104",
+    "title": "Property Disposal"
+  },
+  {
+    "code": "1105",
+    "title": "Purchasing"
+  },
+  {
+    "code": "1106",
+    "title": "Procurement Clerical And Technician"
+  },
+  {
+    "code": "1107",
+    "title": "Property Disposal Clerical And Technician"
+  },
+  {
+    "code": "1108",
+    "title": "Business Support"
+  },
+  {
+    "code": "1109",
+    "title": "Grants Management"
+  },
+  {
+    "code": "1130",
+    "title": "Public Utilities Specialist"
+  },
+  {
+    "code": "1140",
+    "title": "Trade Specialist"
+  },
+  {
+    "code": "1144",
+    "title": "Commissary Management"
+  },
+  {
+    "code": "1145",
+    "title": "Agricultural Program Specialist"
+  },
+  {
+    "code": "1146",
+    "title": "Agricultural Marketing"
+  },
+  {
+    "code": "1147",
+    "title": "Agricultural Market Reporting"
+  },
+  {
+    "code": "1150",
+    "title": "Industrial Specialist"
+  },
+  {
+    "code": "1152",
+    "title": "Production Control"
+  },
+  {
+    "code": "1160",
+    "title": "Financial Analysis"
+  },
+  {
+    "code": "1163",
+    "title": "Insurance Examining"
+  },
+  {
+    "code": "1165",
+    "title": "Loan Specialist"
+  },
+  {
+    "code": "1169",
+    "title": "Internal Revenue Officer"
+  },
+  {
+    "code": "1170",
+    "title": "Realty"
+  },
+  {
+    "code": "1171",
+    "title": "Appraising"
+  },
+  {
+    "code": "1173",
+    "title": "Housing Management"
+  },
+  {
+    "code": "1176",
+    "title": "Building Management"
+  },
+  {
+    "code": "1199",
+    "title": "Business And Industry Student Trainee"
+  },
+  {
+    "code": "1202",
+    "title": "Patent Technician"
+  },
+  {
+    "code": "1210",
+    "title": "Copyright"
+  },
+  {
+    "code": "1211",
+    "title": "Copyright Technician"
+  },
+  {
+    "code": "1220",
+    "title": "Patent Administration"
+  },
+  {
+    "code": "1221",
+    "title": "Patent Adviser"
+  },
+  {
+    "code": "1222",
+    "title": "Patent Attorney"
+  },
+  {
+    "code": "1223",
+    "title": "Patent Classifying"
+  },
+  {
+    "code": "1224",
+    "title": "Patent Examining"
+  },
+  {
+    "code": "1226",
+    "title": "Design Patent Examining"
+  },
+  {
+    "code": "1299",
+    "title": "Copyright And Patent Student Trainee"
+  },
+  {
+    "code": "1301",
+    "title": "General Physical Science"
+  },
+  {
+    "code": "1306",
+    "title": "Health Physics"
+  },
+  {
+    "code": "1310",
+    "title": "Physics"
+  },
+  {
+    "code": "1311",
+    "title": "Physical Science Technician"
+  },
+  {
+    "code": "1313",
+    "title": "Geophysics"
+  },
+  {
+    "code": "1315",
+    "title": "Hydrology"
+  },
+  {
+    "code": "1316",
+    "title": "Hydrologic Technician"
+  },
+  {
+    "code": "1320",
+    "title": "Chemistry"
+  },
+  {
+    "code": "1321",
+    "title": "Metallurgy"
+  },
+  {
+    "code": "1330",
+    "title": "Astronomy And Space Science"
+  },
+  {
+    "code": "1340",
+    "title": "Meteorology"
+  },
+  {
+    "code": "1341",
+    "title": "Meteorological Technician"
+  },
+  {
+    "code": "1350",
+    "title": "Geology"
+  },
+  {
+    "code": "1360",
+    "title": "Oceanography"
+  },
+  {
+    "code": "1361",
+    "title": "Navigational Information"
+  },
+  {
+    "code": "1370",
+    "title": "Cartography"
+  },
+  {
+    "code": "1371",
+    "title": "Cartographic Technician"
+  },
+  {
+    "code": "1372",
+    "title": "Geodesy"
+  },
+  {
+    "code": "1373",
+    "title": "Land Surveying"
+  },
+  {
+    "code": "1374",
+    "title": "Geodetic Technician"
+  },
+  {
+    "code": "1380",
+    "title": "Forest Products Technology"
+  },
+  {
+    "code": "1382",
+    "title": "Food Technology"
+  },
+  {
+    "code": "1384",
+    "title": "Textile Technology"
+  },
+  {
+    "code": "1386",
+    "title": "Photographic Technology"
+  },
+  {
+    "code": "1397",
+    "title": "Document Analysis"
+  },
+  {
+    "code": "1398",
+    "title": "Physical Science Trainee"
+  },
+  {
+    "code": "1399",
+    "title": "Physical Science Student Trainee"
+  },
+  {
+    "code": "1410",
+    "title": "Librarian"
+  },
+  {
+    "code": "1411",
+    "title": "Library Technician"
+  },
+  {
+    "code": "1412",
+    "title": "Technical Information Services"
+  },
+  {
+    "code": "1420",
+    "title": "Archivist"
+  },
+  {
+    "code": "1421",
+    "title": "Archives Technician"
+  },
+  {
+    "code": "1499",
+    "title": "Library And Archives Student Trainee"
+  },
+  {
+    "code": "1501",
+    "title": "General Mathematics And Statistics"
+  },
+  {
+    "code": "1510",
+    "title": "Actuarial Science"
+  },
+  {
+    "code": "1515",
+    "title": "Operations Research"
+  },
+  {
+    "code": "1520",
+    "title": "Mathematics"
+  },
+  {
+    "code": "1521",
+    "title": "Mathematics Technician"
+  },
+  {
+    "code": "1529",
+    "title": "Mathematical Statistics"
+  },
+  {
+    "code": "1530",
+    "title": "Statistics"
+  },
+  {
+    "code": "1531",
+    "title": "Statistical Assistant"
+  },
+  {
+    "code": "1540",
+    "title": "Cryptographer"
+  },
+  {
+    "code": "1541",
+    "title": "Cryptanalysis"
+  },
+  {
+    "code": "1550",
+    "title": "Computer Science"
+  },
+  {
+    "code": "1560",
+    "title": "Data Science Series"
+  },
+  {
+    "code": "1598",
+    "title": "Mathematics Or Computer Science Trainee"
+  },
+  {
+    "code": "1599",
+    "title": "Mathematics And Statistics Student Trainee"
+  },
+  {
+    "code": "1601",
+    "title": "Equipment Facilities, And Services"
+  },
+  {
+    "code": "1603",
+    "title": "Equipment, Facilities, And Services Assistance"
+  },
+  {
+    "code": "1630",
+    "title": "Cemetery Administration Services"
+  },
+  {
+    "code": "1640",
+    "title": "Facility Operations Services"
+  },
+  {
+    "code": "1654",
+    "title": "Printing Services"
+  },
+  {
+    "code": "1658",
+    "title": "Laundry Operations Services"
+  },
+  {
+    "code": "1667",
+    "title": "Food Services"
+  },
+  {
+    "code": "1670",
+    "title": "Equipment Services"
+  },
+  {
+    "code": "1699",
+    "title": "Equipment And Facilities Management Student Trainee"
+  },
+  {
+    "code": "1701",
+    "title": "General Education And Training"
+  },
+  {
+    "code": "1702",
+    "title": "Education And Training Technician"
+  },
+  {
+    "code": "1703",
+    "title": "Education Specialist (DoD Only)"
+  },
+  {
+    "code": "1710",
+    "title": "Education And Vocational Training"
+  },
+  {
+    "code": "1712",
+    "title": "Training Instruction"
+  },
+  {
+    "code": "1715",
+    "title": "Vocational Rehabilitation"
+  },
+  {
+    "code": "1720",
+    "title": "Education Program"
+  },
+  {
+    "code": "1725",
+    "title": "Public Health Educator"
+  },
+  {
+    "code": "1730",
+    "title": "Education Research"
+  },
+  {
+    "code": "1740",
+    "title": "Education Services"
+  },
+  {
+    "code": "1750",
+    "title": "Instructional Systems"
+  },
+  {
+    "code": "1799",
+    "title": "Education Student Trainee"
+  },
+  {
+    "code": "1801",
+    "title": "General Inspection, Investigation, Enforcement, And Compliance Series"
+  },
+  {
+    "code": "1802",
+    "title": "Compliance Inspection And Support"
+  },
+  {
+    "code": "1805",
+    "title": "Investigative Analysis"
+  },
+  {
+    "code": "1810",
+    "title": "General Investigation"
+  },
+  {
+    "code": "1811",
+    "title": "Criminal Investigation"
+  },
+  {
+    "code": "1812",
+    "title": "Game Law Enforcement Series"
+  },
+  {
+    "code": "1815",
+    "title": "Air Safety Investigating"
+  },
+  {
+    "code": "1822",
+    "title": "Mine Safety And Health Inspection Series"
+  },
+  {
+    "code": "1825",
+    "title": "Aviation Safety"
+  },
+  {
+    "code": "1831",
+    "title": "Securities Compliance Examining"
+  },
+  {
+    "code": "1849",
+    "title": "Wage And Hour Investigation Series"
+  },
+  {
+    "code": "1850",
+    "title": "Agricultural Warehouse Inspection Series"
+  },
+  {
+    "code": "1860",
+    "title": "Equal Opportunity Investigation"
+  },
+  {
+    "code": "1862",
+    "title": "Consumer Safety Inspection"
+  },
+  {
+    "code": "1863",
+    "title": "Food Inspection"
+  },
+  {
+    "code": "1864",
+    "title": "Public Health Quarantine"
+  },
+  {
+    "code": "1881",
+    "title": "Customs And Border Protection Interdiction"
+  },
+  {
+    "code": "1889",
+    "title": "Import Compliance Series"
+  },
+  {
+    "code": "1890",
+    "title": "Customs Inspection Series"
+  },
+  {
+    "code": "1894",
+    "title": "Customs Entry And Liquidating"
+  },
+  {
+    "code": "1895",
+    "title": "Customs And Border Protection"
+  },
+  {
+    "code": "1896",
+    "title": "Border Patrol Enforcement Series"
+  },
+  {
+    "code": "1899",
+    "title": "Investigation Student Trainee"
+  },
+  {
+    "code": "1910",
+    "title": "Quality Assurance"
+  },
+  {
+    "code": "1980",
+    "title": "Agricultural Commodity Grading"
+  },
+  {
+    "code": "1981",
+    "title": "Agricultural Commodity Aid"
+  },
+  {
+    "code": "1999",
+    "title": "Quality Inspection Student Trainee"
+  },
+  {
+    "code": "2001",
+    "title": "General Supply"
+  },
+  {
+    "code": "2003",
+    "title": "Supply Program Management"
+  },
+  {
+    "code": "2005",
+    "title": "Supply Clerical And Technician"
+  },
+  {
+    "code": "2010",
+    "title": "Inventory Management"
+  },
+  {
+    "code": "2030",
+    "title": "Distribution Facilities and Storage Management"
+  },
+  {
+    "code": "2032",
+    "title": "Packaging"
+  },
+  {
+    "code": "2050",
+    "title": "Supply Cataloging Series"
+  },
+  {
+    "code": "2091",
+    "title": "Sales Store Clerical"
+  },
+  {
+    "code": "2099",
+    "title": "Supply Student Trainee"
+  },
+  {
+    "code": "2101",
+    "title": "Transportation Specialist"
+  },
+  {
+    "code": "2102",
+    "title": "Transportation Clerk And Assistant"
+  },
+  {
+    "code": "2110",
+    "title": "Transportation Industry Analysis"
+  },
+  {
+    "code": "2121",
+    "title": "Railroad Safety"
+  },
+  {
+    "code": "2123",
+    "title": "Motor Carrier Safety"
+  },
+  {
+    "code": "2125",
+    "title": "Highway Safety"
+  },
+  {
+    "code": "2130",
+    "title": "Traffic Management"
+  },
+  {
+    "code": "2131",
+    "title": "Freight Rate"
+  },
+  {
+    "code": "2135",
+    "title": "Transportation Loss and Damage Claims Examining"
+  },
+  {
+    "code": "2144",
+    "title": "Cargo Scheduling"
+  },
+  {
+    "code": "2150",
+    "title": "Transportation Operations"
+  },
+  {
+    "code": "2151",
+    "title": "Dispatching"
+  },
+  {
+    "code": "2152",
+    "title": "Air Traffic Control"
+  },
+  {
+    "code": "2154",
+    "title": "Air Traffic Assistance"
+  },
+  {
+    "code": "2161",
+    "title": "Marine Cargo"
+  },
+  {
+    "code": "2181",
+    "title": "Aircraft Operation"
+  },
+  {
+    "code": "2183",
+    "title": "Air Navigation"
+  },
+  {
+    "code": "2185",
+    "title": "Aircrew Technician"
+  },
+  {
+    "code": "2186",
+    "title": "Technical Systems Program Manager"
+  },
+  {
+    "code": "2199",
+    "title": "Transportation Student Trainee"
+  },
+  {
+    "code": "2203",
+    "title": "Computer Operator"
+  },
+  {
+    "code": "2204",
+    "title": "Computer Technician"
+  },
+  {
+    "code": "2210",
+    "title": "Information Technology Management"
+  },
+  {
+    "code": "2212",
+    "title": "Cybersecurity Defensive Operations ICA (DHS Only)"
+  },
+  {
+    "code": "2213",
+    "title": "Cybersecurity Defensive Operations PEA (DHS Only)"
+  },
+  {
+    "code": "2214",
+    "title": "Cybersecurity Threat Analysis (DHS Only)"
+  },
+  {
+    "code": "2215",
+    "title": "Digital Forensics (DHS Only)"
+  },
+  {
+    "code": "2216",
+    "title": "Mitigation and Response (DHS Only)"
+  },
+  {
+    "code": "2217",
+    "title": "Network Operations (DHS Only)"
+  },
+  {
+    "code": "2218",
+    "title": "Security System Operations and Maintenance (DHS Only)"
+  },
+  {
+    "code": "2219",
+    "title": "Vulnerability Assessment (DHS Only)"
+  },
+  {
+    "code": "2220",
+    "title": "Cybersecurity Architecture (For DHS use only)"
+  },
+  {
+    "code": "2221",
+    "title": "Cybersecurity Learning and Development (For DHS use only) "
+  },
+  {
+    "code": "2222",
+    "title": "Cybersecurity Engineering (For DHS use only) "
+  },
+  {
+    "code": "2223",
+    "title": "Cybersecurity Policy (For DHS use only)"
+  },
+  {
+    "code": "2224",
+    "title": "Cybersecurity Program Management (For DHS use only)"
+  },
+  {
+    "code": "2225",
+    "title": "Cybersecurity Research and Development (For DHS use only)"
+  },
+  {
+    "code": "2226",
+    "title": "Cybersecurity Risk Management and Compliance (For DHS use only)"
+  },
+  {
+    "code": "2227",
+    "title": "Cybersecurity Data Science (For DHS use only)"
+  },
+  {
+    "code": "2228",
+    "title": "Physical, Embedded and Control Systems Security (For DHS use only)"
+  },
+  {
+    "code": "2229",
+    "title": "Early-Career Cybersecurity Specialist (For DHS use only)"
+  },
+  {
+    "code": "2230",
+    "title": "DHS Cybersecurity Specialist (For DHS use only)"
+  },
+  {
+    "code": "2299",
+    "title": "Information Technology Student Trainee"
+  },
+  {
+    "code": "2310",
+    "title": "City Carrier"
+  },
+  {
+    "code": "2315",
+    "title": "Clerk And Mail Handler"
+  },
+  {
+    "code": "2320",
+    "title": "Sales and Service Distribution"
+  },
+  {
+    "code": "2325",
+    "title": "Rural Carrier"
+  },
+  {
+    "code": "2340",
+    "title": "Post Office Clerk"
+  },
+  {
+    "code": "2501",
+    "title": "Miscellaneous Wire Communications Equipment Install and Maintenance"
+  },
+  {
+    "code": "2502",
+    "title": "Telecommunications Mechanic"
+  },
+  {
+    "code": "2504",
+    "title": "Wire Communications Cable Splicing"
+  },
+  {
+    "code": "2508",
+    "title": "Communications Line Installing and Repairing"
+  },
+  {
+    "code": "2601",
+    "title": "Miscellaneous Electronic Equipment Install and Maintenance"
+  },
+  {
+    "code": "2602",
+    "title": "Electronic Measurement Equipment Mechanic"
+  },
+  {
+    "code": "2604",
+    "title": "Electronics Mechanic"
+  },
+  {
+    "code": "2606",
+    "title": "Electronic Industrial Controls Mechanic"
+  },
+  {
+    "code": "2608",
+    "title": "Electronic Digital Computer Mechanic"
+  },
+  {
+    "code": "2610",
+    "title": "Electronic Integrated Systems Mechanic"
+  },
+  {
+    "code": "2801",
+    "title": "Miscellaneous Electrical Installation and Maintenance"
+  },
+  {
+    "code": "2805",
+    "title": "Electrician"
+  },
+  {
+    "code": "2810",
+    "title": "High Voltage Electrician"
+  },
+  {
+    "code": "2854",
+    "title": "Electrical Equipment Repairer"
+  },
+  {
+    "code": "2892",
+    "title": "Aircraft Electrician"
+  },
+  {
+    "code": "3101",
+    "title": "Miscellaneous Fabric and Leather Work"
+  },
+  {
+    "code": "3105",
+    "title": "Fabric Working"
+  },
+  {
+    "code": "3106",
+    "title": "Upholstering"
+  },
+  {
+    "code": "3111",
+    "title": "Sewing Machine Operating"
+  },
+  {
+    "code": "3119",
+    "title": "Broom And Brush Making"
+  },
+  {
+    "code": "3301",
+    "title": "Miscellaneous Instrument Work"
+  },
+  {
+    "code": "3306",
+    "title": "Optical Instrument Repairing"
+  },
+  {
+    "code": "3314",
+    "title": "Instrument Making"
+  },
+  {
+    "code": "3359",
+    "title": "Instrument Mechanic"
+  },
+  {
+    "code": "3378",
+    "title": "Precision Measurement Equipment Calibrating"
+  },
+  {
+    "code": "3401",
+    "title": "Miscellaneous Machine Tool Work"
+  },
+  {
+    "code": "3414",
+    "title": "Machining"
+  },
+  {
+    "code": "3416",
+    "title": "Toolmaking"
+  },
+  {
+    "code": "3417",
+    "title": "Tool Grinding"
+  },
+  {
+    "code": "3428",
+    "title": "Die Sinking"
+  },
+  {
+    "code": "3501",
+    "title": "Miscellaneous General Services and Support Work"
+  },
+  {
+    "code": "3502",
+    "title": "Laboring"
+  },
+  {
+    "code": "3511",
+    "title": "Laboratory Working"
+  },
+  {
+    "code": "3513",
+    "title": "Coin/Currency Checking"
+  },
+  {
+    "code": "3515",
+    "title": "Laboratory Support Working"
+  },
+  {
+    "code": "3546",
+    "title": "Railroad Repairing"
+  },
+  {
+    "code": "3566",
+    "title": "Custodial Working"
+  },
+  {
+    "code": "3601",
+    "title": "Miscellaneous Structural and Finishing Work"
+  },
+  {
+    "code": "3602",
+    "title": "Cement Finishing"
+  },
+  {
+    "code": "3603",
+    "title": "Masonry"
+  },
+  {
+    "code": "3604",
+    "title": "Tile Setting"
+  },
+  {
+    "code": "3605",
+    "title": "Plastering"
+  },
+  {
+    "code": "3606",
+    "title": "Roofing"
+  },
+  {
+    "code": "3610",
+    "title": "Insulating"
+  },
+  {
+    "code": "3701",
+    "title": "Miscellaneous Metal Processing"
+  },
+  {
+    "code": "3703",
+    "title": "Welding"
+  },
+  {
+    "code": "3705",
+    "title": "Non-Destructive Testing"
+  },
+  {
+    "code": "3707",
+    "title": "Metalizing"
+  },
+  {
+    "code": "3711",
+    "title": "Electroplating"
+  },
+  {
+    "code": "3712",
+    "title": "Heat Treating"
+  },
+  {
+    "code": "3716",
+    "title": "Leadburning"
+  },
+  {
+    "code": "3725",
+    "title": "Battery Repairing"
+  },
+  {
+    "code": "3727",
+    "title": "Buffing And Polishing"
+  },
+  {
+    "code": "3735",
+    "title": "Metal Phototransferring"
+  },
+  {
+    "code": "3736",
+    "title": "Circuit Board Making"
+  },
+  {
+    "code": "3769",
+    "title": "Shot Peening Machine Operating"
+  },
+  {
+    "code": "3801",
+    "title": "Miscellaneous Metal Work"
+  },
+  {
+    "code": "3802",
+    "title": "Metal Forging"
+  },
+  {
+    "code": "3806",
+    "title": "Sheet Metal Mechanic"
+  },
+  {
+    "code": "3807",
+    "title": "Structural/Ornamental Iron Working"
+  },
+  {
+    "code": "3808",
+    "title": "Boilermaking"
+  },
+  {
+    "code": "3809",
+    "title": "Mobile Equipment Metal Mechanic"
+  },
+  {
+    "code": "3816",
+    "title": "Engraving"
+  },
+  {
+    "code": "3819",
+    "title": "Airframe Jig Fitting"
+  },
+  {
+    "code": "3820",
+    "title": "Shipfitting"
+  },
+  {
+    "code": "3858",
+    "title": "Metal Tank And Radiator Repairing"
+  },
+  {
+    "code": "3869",
+    "title": "Metal Forming Machine Operating"
+  },
+  {
+    "code": "3872",
+    "title": "Metal Tube Making, Installing, and Repairing"
+  },
+  {
+    "code": "3901",
+    "title": "Miscellaneous Motion Picture, Radio, TV, and Sound Equipment Operating"
+  },
+  {
+    "code": "3910",
+    "title": "Motion Picture Projection"
+  },
+  {
+    "code": "3940",
+    "title": "Broadcasting Equipment Operating"
+  },
+  {
+    "code": "4001",
+    "title": "Miscellaneous Lens And Crystal Work"
+  },
+  {
+    "code": "4005",
+    "title": "Optical Element Working"
+  },
+  {
+    "code": "4010",
+    "title": "Prescription Eyeglass Making"
+  },
+  {
+    "code": "4101",
+    "title": "Miscellaneous Painting And Paperhanging"
+  },
+  {
+    "code": "4102",
+    "title": "Painting"
+  },
+  {
+    "code": "4104",
+    "title": "Sign Painting"
+  },
+  {
+    "code": "4201",
+    "title": "Miscellaneous Plumbing And Pipefitting"
+  },
+  {
+    "code": "4204",
+    "title": "Pipefitting"
+  },
+  {
+    "code": "4206",
+    "title": "Plumbing"
+  },
+  {
+    "code": "4255",
+    "title": "Fuel Distribution System Mechanic"
+  },
+  {
+    "code": "4301",
+    "title": "Miscellaneous Pliable Materials Work"
+  },
+  {
+    "code": "4352",
+    "title": "Composite/Plastic Fabricating"
+  },
+  {
+    "code": "4360",
+    "title": "Rubber Products Molding"
+  },
+  {
+    "code": "4361",
+    "title": "Rubber Equipment Repairing"
+  },
+  {
+    "code": "4373",
+    "title": "Molding"
+  },
+  {
+    "code": "4401",
+    "title": "Miscellaneous Printing And Reproduction"
+  },
+  {
+    "code": "4402",
+    "title": "Bindery Working"
+  },
+  {
+    "code": "4403",
+    "title": "Hand Composing"
+  },
+  {
+    "code": "4406",
+    "title": "Letterpress Operating"
+  },
+  {
+    "code": "4413",
+    "title": "Negative Engraving"
+  },
+  {
+    "code": "4414",
+    "title": "Offset Photography"
+  },
+  {
+    "code": "4416",
+    "title": "Platemaking"
+  },
+  {
+    "code": "4417",
+    "title": "Offset Press Operating"
+  },
+  {
+    "code": "4419",
+    "title": "Silk Screen Making And Printing"
+  },
+  {
+    "code": "4425",
+    "title": "Photoengraving"
+  },
+  {
+    "code": "4440",
+    "title": "Stereotype Platemaking"
+  },
+  {
+    "code": "4441",
+    "title": "Bookbinding"
+  },
+  {
+    "code": "4446",
+    "title": "Bank Note Engraving"
+  },
+  {
+    "code": "4449",
+    "title": "Electrolytic Intaglio Platemaking"
+  },
+  {
+    "code": "4450",
+    "title": "Intaglio Die And Plate Finishing"
+  },
+  {
+    "code": "4454",
+    "title": "Intaglio Press Operating"
+  },
+  {
+    "code": "4601",
+    "title": "Miscellaneous Woodwork"
+  },
+  {
+    "code": "4602",
+    "title": "Blocking And Bracing"
+  },
+  {
+    "code": "4604",
+    "title": "Wood Working"
+  },
+  {
+    "code": "4605",
+    "title": "Wood Crafting"
+  },
+  {
+    "code": "4607",
+    "title": "Carpentry"
+  },
+  {
+    "code": "4616",
+    "title": "Patternmaking"
+  },
+  {
+    "code": "4639",
+    "title": "Timber Working"
+  },
+  {
+    "code": "4654",
+    "title": "Form Block Making"
+  },
+  {
+    "code": "4701",
+    "title": "Miscellaneous General Maintenance and Operations Work"
+  },
+  {
+    "code": "4714",
+    "title": "Model Making"
+  },
+  {
+    "code": "4715",
+    "title": "Exhibits Making/Modeling"
+  },
+  {
+    "code": "4716",
+    "title": "Railroad Car Repairing"
+  },
+  {
+    "code": "4717",
+    "title": "Boat Building And Repairing"
+  },
+  {
+    "code": "4737",
+    "title": "General Equipment Mechanic"
+  },
+  {
+    "code": "4741",
+    "title": "General Equipment Operating"
+  },
+  {
+    "code": "4742",
+    "title": "Utility Systems Repairing-Operating"
+  },
+  {
+    "code": "4745",
+    "title": "Research Laboratory Mechanic"
+  },
+  {
+    "code": "4749",
+    "title": "Maintenance Mechanic"
+  },
+  {
+    "code": "4754",
+    "title": "Cemetery Caretaking"
+  },
+  {
+    "code": "4801",
+    "title": "Miscellaneous General Equipment Maintenance"
+  },
+  {
+    "code": "4804",
+    "title": "Locksmithing"
+  },
+  {
+    "code": "4805",
+    "title": "Medical Equipment Repairing"
+  },
+  {
+    "code": "4806",
+    "title": "Office Appliance Repairing"
+  },
+  {
+    "code": "4807",
+    "title": "Chemical Equipment Repairing"
+  },
+  {
+    "code": "4808",
+    "title": "Custodial Equipment Servicing"
+  },
+  {
+    "code": "4816",
+    "title": "Protective & Safe Equipment Fabricating & Repair"
+  },
+  {
+    "code": "4818",
+    "title": "Aircraft Survival Flight Equipment Repair"
+  },
+  {
+    "code": "4819",
+    "title": "Bowling Equipment Repairing"
+  },
+  {
+    "code": "4820",
+    "title": "Vending Machine Repairing"
+  },
+  {
+    "code": "4840",
+    "title": "Tool And Equipment Repairing"
+  },
+  {
+    "code": "4848",
+    "title": "Mechanical Parts Repairing"
+  },
+  {
+    "code": "4850",
+    "title": "Bearing Reconditioning"
+  },
+  {
+    "code": "4855",
+    "title": "Domestic Appliance Repairing"
+  },
+  {
+    "code": "5001",
+    "title": "Miscellaneous Plant And Animal Work"
+  },
+  {
+    "code": "5002",
+    "title": "Farming"
+  },
+  {
+    "code": "5003",
+    "title": "Gardening"
+  },
+  {
+    "code": "5026",
+    "title": "Pest Controlling"
+  },
+  {
+    "code": "5031",
+    "title": "Insects Production Working"
+  },
+  {
+    "code": "5034",
+    "title": "Dairy Farming"
+  },
+  {
+    "code": "5035",
+    "title": "Livestock Ranching/Wrangling"
+  },
+  {
+    "code": "5042",
+    "title": "Tree Trimming And Removing"
+  },
+  {
+    "code": "5048",
+    "title": "Animal Caretaking"
+  },
+  {
+    "code": "5201",
+    "title": "Miscellaneous Occupations"
+  },
+  {
+    "code": "5205",
+    "title": "Gas And Radiation Detecting"
+  },
+  {
+    "code": "5210",
+    "title": "Rigging"
+  },
+  {
+    "code": "5220",
+    "title": "Shipwright"
+  },
+  {
+    "code": "5221",
+    "title": "Lofting"
+  },
+  {
+    "code": "5235",
+    "title": "Test Range Tracking"
+  },
+  {
+    "code": "5301",
+    "title": "Miscellaneous Industrial Equipment Maintenance"
+  },
+  {
+    "code": "5306",
+    "title": "Air Conditioning Equipment Mechanic"
+  },
+  {
+    "code": "5309",
+    "title": "Heating & Boiler Plant Equipment Mechanic"
+  },
+  {
+    "code": "5310",
+    "title": "Kitchen/Bakery Equipment Repairing"
+  },
+  {
+    "code": "5313",
+    "title": "Elevator Mechanic"
+  },
+  {
+    "code": "5317",
+    "title": "Laundry & Dry Cleaning Equipment Repairing"
+  },
+  {
+    "code": "5318",
+    "title": "Lock And Dam Repairing"
+  },
+  {
+    "code": "5323",
+    "title": "Oiling And Greasing"
+  },
+  {
+    "code": "5334",
+    "title": "Marine Machinery Mechanic"
+  },
+  {
+    "code": "5341",
+    "title": "Industrial Furnace Building And Repairing"
+  },
+  {
+    "code": "5350",
+    "title": "Production Machinery Mechanic"
+  },
+  {
+    "code": "5352",
+    "title": "Industrial Equipment Mechanic"
+  },
+  {
+    "code": "5364",
+    "title": "Door Systems Mechanic"
+  },
+  {
+    "code": "5365",
+    "title": "Physiological Trainer Mechanic"
+  },
+  {
+    "code": "5378",
+    "title": "Powered Support Systems Mechanic"
+  },
+  {
+    "code": "5384",
+    "title": "Gasdynamic Facility Installing and Repairing"
+  },
+  {
+    "code": "5401",
+    "title": "Miscellaneous Industrial Equipment Operation"
+  },
+  {
+    "code": "5402",
+    "title": "Boiler Plant Operating"
+  },
+  {
+    "code": "5406",
+    "title": "Utility Systems Operating"
+  },
+  {
+    "code": "5407",
+    "title": "Electrical Power Controlling"
+  },
+  {
+    "code": "5408",
+    "title": "Sewage Disposal Plant Operating"
+  },
+  {
+    "code": "5409",
+    "title": "Water Treatment Plant Operating"
+  },
+  {
+    "code": "5413",
+    "title": "Fuel Distribution System Operating"
+  },
+  {
+    "code": "5415",
+    "title": "Air Conditioning Equipment Operating"
+  },
+  {
+    "code": "5419",
+    "title": "Stationary-Engine Operating"
+  },
+  {
+    "code": "5423",
+    "title": "Sandblasting"
+  },
+  {
+    "code": "5426",
+    "title": "Lock And Dam Operating"
+  },
+  {
+    "code": "5427",
+    "title": "Chemical Plant Operating"
+  },
+  {
+    "code": "5435",
+    "title": "Carton/Bag Making Machine"
+  },
+  {
+    "code": "5438",
+    "title": "Elevator Operating"
+  },
+  {
+    "code": "5439",
+    "title": "Testing Equipment Operating"
+  },
+  {
+    "code": "5440",
+    "title": "Packaging Machine Operating"
+  },
+  {
+    "code": "5446",
+    "title": "Textile Equipment Operating"
+  },
+  {
+    "code": "5485",
+    "title": "Aircraft Weight And Balance Operating"
+  },
+  {
+    "code": "5701",
+    "title": "Miscellaneous Transportation/Mobile Equipment Operating"
+  },
+  {
+    "code": "5703",
+    "title": "Motor Vehicle Operating"
+  },
+  {
+    "code": "5704",
+    "title": "Fork Lift Operating"
+  },
+  {
+    "code": "5705",
+    "title": "Tractor Operating"
+  },
+  {
+    "code": "5716",
+    "title": "Engineering Equipment Operating"
+  },
+  {
+    "code": "5725",
+    "title": "Crane Operating"
+  },
+  {
+    "code": "5729",
+    "title": "Drill Rig Operating"
+  },
+  {
+    "code": "5736",
+    "title": "Braking-Switching And Conducting"
+  },
+  {
+    "code": "5737",
+    "title": "Locomotive Engineering"
+  },
+  {
+    "code": "5738",
+    "title": "Railroad Maintenance Vehicle Operating"
+  },
+  {
+    "code": "5767",
+    "title": "Airfield Clearing Equipment Operating"
+  },
+  {
+    "code": "5782",
+    "title": "Ship Operating"
+  },
+  {
+    "code": "5784",
+    "title": "Riverboat Operating"
+  },
+  {
+    "code": "5786",
+    "title": "Small Craft Operating"
+  },
+  {
+    "code": "5788",
+    "title": "Deckhand"
+  },
+  {
+    "code": "5801",
+    "title": "Miscellaneous Transportation/Mobile Equipment Maintenance"
+  },
+  {
+    "code": "5803",
+    "title": "Heavy Mobile Equipment Mechanic"
+  },
+  {
+    "code": "5806",
+    "title": "Mobile Equipment Servicing"
+  },
+  {
+    "code": "5823",
+    "title": "Automotive Mechanic"
+  },
+  {
+    "code": "5876",
+    "title": "Electromotive Equipment Mechanic"
+  },
+  {
+    "code": "6501",
+    "title": "Miscellaneous Ammunitions, Explosives, and Toxic Matter Work"
+  },
+  {
+    "code": "6502",
+    "title": "Explosives Operating"
+  },
+  {
+    "code": "6505",
+    "title": "Munitions Destroying"
+  },
+  {
+    "code": "6511",
+    "title": "Missile/Toxic Materials Handling"
+  },
+  {
+    "code": "6517",
+    "title": "Explosives Test Operating"
+  },
+  {
+    "code": "6601",
+    "title": "Miscellaneous Armament Work"
+  },
+  {
+    "code": "6605",
+    "title": "Artillery Repairing"
+  },
+  {
+    "code": "6606",
+    "title": "Artillery Testing"
+  },
+  {
+    "code": "6610",
+    "title": "Small Arms Repairing"
+  },
+  {
+    "code": "6641",
+    "title": "Ordnance Equipment Mechanic"
+  },
+  {
+    "code": "6652",
+    "title": "Aircraft Ordnance Systems Mechanic"
+  },
+  {
+    "code": "6656",
+    "title": "Special Weapons Systems Mechanic"
+  },
+  {
+    "code": "6901",
+    "title": "Miscellaneous Warehousing and Stock Handling"
+  },
+  {
+    "code": "6903",
+    "title": "Coal Handling"
+  },
+  {
+    "code": "6904",
+    "title": "Tools And Parts Attending"
+  },
+  {
+    "code": "6907",
+    "title": "Materials Handler"
+  },
+  {
+    "code": "6910",
+    "title": "Materials Expediting"
+  },
+  {
+    "code": "6912",
+    "title": "Materials Examining And Identifying"
+  },
+  {
+    "code": "6913",
+    "title": "Hazardous Waste Disposing"
+  },
+  {
+    "code": "6914",
+    "title": "Store Working"
+  },
+  {
+    "code": "6941",
+    "title": "Bulk Money Handling"
+  },
+  {
+    "code": "6968",
+    "title": "Aircraft Freight Loading"
+  },
+  {
+    "code": "7001",
+    "title": "Miscellaneous Packing And Processing"
+  },
+  {
+    "code": "7002",
+    "title": "Packing"
+  },
+  {
+    "code": "7006",
+    "title": "Preservation Servicing"
+  },
+  {
+    "code": "7009",
+    "title": "Equipment Cleaning"
+  },
+  {
+    "code": "7301",
+    "title": "Miscellaneous Laundry, Dry Cleaning, and Pressing"
+  },
+  {
+    "code": "7304",
+    "title": "Laundry Working"
+  },
+  {
+    "code": "7305",
+    "title": "Laundry Machine Operating"
+  },
+  {
+    "code": "7401",
+    "title": "Miscellaneous Food Preparation and Serving"
+  },
+  {
+    "code": "7402",
+    "title": "Baking"
+  },
+  {
+    "code": "7404",
+    "title": "Cooking"
+  },
+  {
+    "code": "7405",
+    "title": "Bartending"
+  },
+  {
+    "code": "7407",
+    "title": "Meatcutting"
+  },
+  {
+    "code": "7408",
+    "title": "Food Service Working"
+  },
+  {
+    "code": "7420",
+    "title": "Waiter"
+  },
+  {
+    "code": "7601",
+    "title": "Miscellaneous Personal Services"
+  },
+  {
+    "code": "7603",
+    "title": "Barbering"
+  },
+  {
+    "code": "8201",
+    "title": "Miscellaneous Fluid Systems Maintenance"
+  },
+  {
+    "code": "8255",
+    "title": "Pneudraulic Systems Mechanic"
+  },
+  {
+    "code": "8268",
+    "title": "Aircraft Pneudraulic Systems Mechanic"
+  },
+  {
+    "code": "8601",
+    "title": "Miscellaneous Engine Overhaul"
+  },
+  {
+    "code": "8602",
+    "title": "Aircraft Engine Mechanic"
+  },
+  {
+    "code": "8610",
+    "title": "Small Engine Mechanic"
+  },
+  {
+    "code": "8675",
+    "title": "Liquid Fuel Rocket Engine Mechanic"
+  },
+  {
+    "code": "8801",
+    "title": "Miscellaneous Aircraft Overhaul"
+  },
+  {
+    "code": "8810",
+    "title": "Aircraft Propeller Mechanic"
+  },
+  {
+    "code": "8840",
+    "title": "Aircraft Mechanical Parts Repairing"
+  },
+  {
+    "code": "8852",
+    "title": "Aircraft Mechanic"
+  },
+  {
+    "code": "8862",
+    "title": "Aircraft Attending"
+  },
+  {
+    "code": "8882",
+    "title": "Airframe Test Operating"
+  },
+  {
+    "code": "8999",
+    "title": "United States Probation Officer"
+  },
+  {
+    "code": "9001",
+    "title": "Miscellaneous Film Processing"
+  },
+  {
+    "code": "9003",
+    "title": "Film Assembling And Repairing"
+  },
+  {
+    "code": "9004",
+    "title": "Motion Picture Developing/Printing Machine Operating"
+  },
+  {
+    "code": "9901",
+    "title": "Miscellaneous Vessel Jobs"
+  },
+  {
+    "code": "9902",
+    "title": "Master"
+  },
+  {
+    "code": "9903",
+    "title": "Chief Officer Cable"
+  },
+  {
+    "code": "9904",
+    "title": "Ship Pilot"
+  },
+  {
+    "code": "9905",
+    "title": "First Officer"
+  },
+  {
+    "code": "9906",
+    "title": "Second Officer"
+  },
+  {
+    "code": "9907",
+    "title": "Third Officer"
+  },
+  {
+    "code": "9908",
+    "title": "Ship's Communication Officer"
+  },
+  {
+    "code": "9909",
+    "title": "Radio Officer"
+  },
+  {
+    "code": "9910",
+    "title": "First Assistant Radio Officer"
+  },
+  {
+    "code": "9911",
+    "title": "Radio Electronics Officer"
+  },
+  {
+    "code": "9912",
+    "title": "First Assistant Radio Electronics Officer"
+  },
+  {
+    "code": "9913",
+    "title": "Relief Deck Officer"
+  },
+  {
+    "code": "9914",
+    "title": "Damage Control Officer"
+  },
+  {
+    "code": "9915",
+    "title": "Assistant Damage Control Officer"
+  },
+  {
+    "code": "9916",
+    "title": "Master-Mate (Fishing Vessel)"
+  },
+  {
+    "code": "9917",
+    "title": "Deck Midshipman"
+  },
+  {
+    "code": "9918",
+    "title": "Damage Control Leader"
+  },
+  {
+    "code": "9919",
+    "title": "Damage Control Assistant Leader"
+  },
+  {
+    "code": "9920",
+    "title": "Boatswain"
+  },
+  {
+    "code": "9921",
+    "title": "Carpenter"
+  },
+  {
+    "code": "9922",
+    "title": "Carpenter-Maintenance"
+  },
+  {
+    "code": "9923",
+    "title": "Boatswain's Mate"
+  },
+  {
+    "code": "9924",
+    "title": "Able Seaman"
+  },
+  {
+    "code": "9925",
+    "title": "Able Seaman-Maintenance"
+  },
+  {
+    "code": "9926",
+    "title": "Quartermaster"
+  },
+  {
+    "code": "9927",
+    "title": "Seaman-Fisherman"
+  },
+  {
+    "code": "9928",
+    "title": "Ordinary Seaman"
+  },
+  {
+    "code": "9929",
+    "title": "Damage Controlman"
+  },
+  {
+    "code": "9930",
+    "title": "Operations Chief (OC)"
+  },
+  {
+    "code": "9931",
+    "title": "Chief Engineer"
+  },
+  {
+    "code": "9932",
+    "title": "First Assistant Engineer"
+  },
+  {
+    "code": "9933",
+    "title": "Second Assistant Engineer"
+  },
+  {
+    "code": "9934",
+    "title": "Third Assistant Engineer"
+  },
+  {
+    "code": "9935",
+    "title": "Relief Engineer"
+  },
+  {
+    "code": "9936",
+    "title": "Engine Midshipman"
+  },
+  {
+    "code": "9939",
+    "title": "Chief Electrician"
+  },
+  {
+    "code": "9940",
+    "title": "Electrician"
+  },
+  {
+    "code": "9941",
+    "title": "Electrician-Maintenance"
+  },
+  {
+    "code": "9942",
+    "title": "Second Electrician"
+  },
+  {
+    "code": "9943",
+    "title": "Third Electrician"
+  },
+  {
+    "code": "9944",
+    "title": "Electronics Technician"
+  },
+  {
+    "code": "9945",
+    "title": "Refrigeration Engineer"
+  },
+  {
+    "code": "9946",
+    "title": "Second Refrigeration Engineer"
+  },
+  {
+    "code": "9947",
+    "title": "Third Refrigeration Engineer"
+  },
+  {
+    "code": "9948",
+    "title": "Plumber"
+  },
+  {
+    "code": "9949",
+    "title": "Assistant Plumber"
+  },
+  {
+    "code": "9950",
+    "title": "Plumber-Machinist"
+  },
+  {
+    "code": "9951",
+    "title": "Deck Engineer"
+  },
+  {
+    "code": "9952",
+    "title": "Deck Engineer-Machinist"
+  },
+  {
+    "code": "9953",
+    "title": "Deck Engineer-Mechanic"
+  },
+  {
+    "code": "9954",
+    "title": "Unlicensed Junior Engineer"
+  },
+  {
+    "code": "9955",
+    "title": "Pumpman"
+  },
+  {
+    "code": "9956",
+    "title": "Engineman"
+  },
+  {
+    "code": "9957",
+    "title": "Engine Utilityman"
+  },
+  {
+    "code": "9958",
+    "title": "Evaporator-Utilityman"
+  },
+  {
+    "code": "9959",
+    "title": "Machinist"
+  },
+  {
+    "code": "9960",
+    "title": "Oiler"
+  },
+  {
+    "code": "9961",
+    "title": "Oiler Diesel"
+  },
+  {
+    "code": "9962",
+    "title": "Refrigeration Oiler"
+  },
+  {
+    "code": "9963",
+    "title": "Fireman"
+  },
+  {
+    "code": "9964",
+    "title": "Fireman-Watertender"
+  },
+  {
+    "code": "9965",
+    "title": "Wiper"
+  },
+  {
+    "code": "9968",
+    "title": "Chief Steward"
+  },
+  {
+    "code": "9969",
+    "title": "Third Steward"
+  },
+  {
+    "code": "9971",
+    "title": "Chief Cook"
+  },
+  {
+    "code": "9972",
+    "title": "Steward Cook"
+  },
+  {
+    "code": "9973",
+    "title": "Second Cook"
+  },
+  {
+    "code": "9974",
+    "title": "Third Cook"
+  },
+  {
+    "code": "9975",
+    "title": "Assistant Cook"
+  },
+  {
+    "code": "9976",
+    "title": "Cook-Baker"
+  },
+  {
+    "code": "9977",
+    "title": "Second Cook-Baker"
+  },
+  {
+    "code": "9978",
+    "title": "Night Cook And Baker"
+  },
+  {
+    "code": "9979",
+    "title": "Steward Baker"
+  },
+  {
+    "code": "9980",
+    "title": "Third Pantryman"
+  },
+  {
+    "code": "9981",
+    "title": "Galleyman"
+  },
+  {
+    "code": "9982",
+    "title": "Laundryman"
+  },
+  {
+    "code": "9983",
+    "title": "Assistant Laundryman"
+  },
+  {
+    "code": "9984",
+    "title": "Messman"
+  },
+  {
+    "code": "9985",
+    "title": "Steward Utilityman"
+  },
+  {
+    "code": "9988",
+    "title": "Purser"
+  },
+  {
+    "code": "9989",
+    "title": "Junior Purser"
+  },
+  {
+    "code": "9990",
+    "title": "Disbursing Officer"
+  },
+  {
+    "code": "9991",
+    "title": "Supply Officer"
+  },
+  {
+    "code": "9992",
+    "title": "Assistant Supply Officer"
+  },
+  {
+    "code": "9993",
+    "title": "Junior Supply Officer"
+  },
+  {
+    "code": "9994",
+    "title": "Assistant Storekeeper"
+  },
+  {
+    "code": "9995",
+    "title": "Chief Radio Electronics Technician"
+  },
+  {
+    "code": "9996",
+    "title": "Medical Services Officer"
+  },
+  {
+    "code": "9997",
+    "title": "First Radio Electronics Technician"
+  },
+  {
+    "code": "9998",
+    "title": "Yeoman-Storekeeper"
+  },
+  {
+    "code": "9999",
+    "title": "Second Radio Electronics Technician"
+  }
+]
