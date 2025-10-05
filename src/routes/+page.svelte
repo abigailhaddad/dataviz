@@ -125,6 +125,15 @@
         <p class="subtitle">
             {@html textContent.page.subtitle}
         </p>
+        
+        {#if !loading && !error && data.length > 0}
+            <div class="scroll-indicator">
+                <p>Scroll to explore</p>
+                <svg class="arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
+                </svg>
+            </div>
+        {/if}
     </header>
     
     {#if error}
@@ -206,6 +215,9 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        min-height: 100vh;
+        position: relative;
+        justify-content: center;
     }
     
     h1 {
@@ -225,6 +237,37 @@
         line-height: 1.5;
         padding: 0;
         text-align: left;
+    }
+    
+    .scroll-indicator {
+        margin-top: 3rem;
+        text-align: center;
+        animation: bounce 2s infinite;
+        opacity: 0.8;
+    }
+    
+    .scroll-indicator p {
+        margin: 0 0 0.5rem 0;
+        font-size: 0.875rem;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        opacity: 0.7;
+    }
+    
+    .scroll-indicator .arrow {
+        opacity: 0.6;
+    }
+    
+    @keyframes bounce {
+        0%, 20%, 50%, 80%, 100% {
+            transform: translateY(0);
+        }
+        40% {
+            transform: translateY(10px);
+        }
+        60% {
+            transform: translateY(5px);
+        }
     }
     
     @media (max-width: 768px) {
