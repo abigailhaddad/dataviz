@@ -1,6 +1,5 @@
 <script>
-    import { forceSimulation, forceY, forceX, forceCollide } from 'd3-force';
-    import { scaleSqrt } from 'd3-scale';
+    import { forceSimulation, forceY, forceX, forceCollide, scaleSqrt } from 'd3';
     import { fade } from "svelte/transition";
     import { onMount } from 'svelte';
     
